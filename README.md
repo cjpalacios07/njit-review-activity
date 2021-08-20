@@ -9,7 +9,7 @@ A review activity for the NJIT intro full stack course
 - Submit a Pull Request of your changes to my repo
 
 # The story
-- You are a developer working for a pet adoption agency. The team has built an Paw-some website, but now your pesky PM has tasked you with adding the voting functionality for the upcoming Pet of the Month.
+- You are a developer working for a pet adoption agency. The team has built an Paw-some website, but now your pesky Product Manager has tasked you with adding the voting functionality for the upcoming Pet of the Month.
 
 # Tasks
 - [ ] Add "Vote" buttons to each pet on the page
